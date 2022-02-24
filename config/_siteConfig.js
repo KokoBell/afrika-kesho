@@ -10,7 +10,7 @@ import theCMS from '../cms/netlify/cms'
  */
 export default {
   siteName: 'Afrika Kesho',
-  tagline: 'A financial education working towards the emancipation of Africa through community and collective financial action.',
+  tagline: 'Your warmest welcome to the world of Investing',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo.svg', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
