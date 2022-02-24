@@ -5,7 +5,7 @@ category:
   - About Awake
 author: Tumelo Koko
 date: 2022-02-24T17:21:14.874Z
-featureImage: /uploads/black-person-investing.jpg
+featureImage: /uploads/black-person-research.jpg
 ---
 It's 2022 and if you haven't started investing, consider this your sign to begin your investing journey. "Investing" is a broad word, and it means when you buy or somehow get assets with the goal of storing or increasing your wealth.
 
