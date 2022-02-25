@@ -55,7 +55,7 @@ export default {
   disqus: {
     on: true,
     loadingStrategy: 'button', // Options: onload, lazy, button
-    siteShortName: 'blog-afrikakesho-io' // 'blog-danielkelly-io'
+    siteShortName: 'afrika-kesho'
   },
 
   // Newsletter Subscribe
