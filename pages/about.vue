@@ -8,81 +8,45 @@
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="content">
-          <h3>Fake Heading</h3>
+          <h3>The Context</h3>
           <p>
-            <strong>
-              Edit this page in<code>/pages/about.vue</code>to fit your needs.
-            </strong>
-          </p>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit!
+            A majority of South Africa’s population is living near or below the poverty line.
+            This is due a myriad of reasons, and primarily the country’s colonial history and
+            present and is inherently systemic to the extent that public education does not
+            provide for financial literacy and does not encourage self-sufficiency. Basic skills
+            such as budgeting and personal tax management are not readily accessible to every
+            learner in the traditional public schooling system, let alone more complex ideas like
+            investments and entrepreneurship. This intentional withholding of information is
+            exacerbating the issue of the widening wealth gap between the colonial minority and
+            native majority, in South Africa and the rest of Africa.
           </p>
 
-          <h3>Another Fake Heading</h3>
+          <h3>The Aim</h3>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit!
-          </p>
-          <quote-card />
-          <h3>Still More Fake Content</h3>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit! Lorem ipsum dolor sit amet, consectetur
-            adipisicing elit.
-            <strong>Alias aut facere harum ipsam</strong> quibusdam quidem
-            quisquam saepe? Alias architecto blanditiis consequatur consequuntur
-            dicta ipsa iste modi provident, quod, similique veritatis.
+            Our aim as Afrika Kesho is the re-education of African communities in how they manage their
+            personal and community finances. We envision African communities that are self-sufficient and
+            both socially and economically independent. The self-sufficiency will come from us shifting
+            our focus and historical positioning from being primary sector employees to primary, secondary
+            and tertiary sector business owners. This would include having businesses that not only mine raw
+            materials, but also refine and make products from them, and others that not only grow crops and
+            livestock, but extract raw materials from them and produce clothing, refined foods and other
+            products. This will circulate money within African economies and ground our roots as an
+            independent continent.
+            </p>
+
+            <p>
+            The minds that are most malleable are young minds, but in the same vein it takes a level of
+            understanding to comprehend and apply the subject matter that we will be discussing.
+            Such a group of young but capable minds can be found in the age group of 19 to 35 year olds.
+            As such, we’ll be targeting African people in the tertiary education spaces – these are the
+            people who will be leading the country in future and they should find themselves applying
+            different methodologies than that of our current elders – and they should be more intentional
+            in their pursuit of African unity and collective wealth. However, all of that begins with the
+            re-education of ourselves as individuals and the re-education of our future leaders.
           </p>
         </div>
 
-        <div class="tile is-ancestor">
-          <div class="tile is-parent">
-            <article class="tile is-child box">
-              <p class="title">
-                Cool Stuff We Do
-              </p>
-              <p class="subtitle">
-                Sooo Cool
-              </p>
-              <figure class="image is-1by1">
-                <opti-image width="500" height="500" />
-              </figure>
-            </article>
-          </div>
-          <div class="tile is-parent">
-            <article class="tile is-child box">
-              <p class="title">
-                Other Cool Things
-              </p>
-              <p class="subtitle">
-                Just as cool
-              </p>
-              <figure class="image is-1by1">
-                <opti-image width="500" height="500" />
-              </figure>
-            </article>
-          </div>
-          <div class="tile is-parent">
-            <article class="tile is-child box">
-              <p class="title">
-                All the cool
-              </p>
-              <p class="subtitle">
-                that is all
-              </p>
-              <figure class="image is-1by1">
-                <opti-image width="500" height="500" />
-              </figure>
-            </article>
-          </div>
-        </div>
+
       </template>
 
       <template v-slot:sidebar>
