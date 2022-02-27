@@ -3,7 +3,7 @@ title: The Complete Basics of Investing
 category:
   - Investing
 author: Tumelo Koko
-date: 2022-03-01T17:00:16.120Z
+date: 2022-03-01T17:00:28.597Z
 featureImage: /uploads/pexels-oladimeji-ajegbile-2325729.jpg
 ---
 ## General Overview
@@ -11,8 +11,6 @@ featureImage: /uploads/pexels-oladimeji-ajegbile-2325729.jpg
 Knowing what investing is and having a general idea of how it works is a giant leap in the right direction – considering that most people in South Africa have no clue what investing is. However, knowing what it is does not entail knowing how to go about it. The information below aims to help you in the practical aspect of investing. Now that you have an investment account, what’s next? It’s time to construct your investment portfolio – which is the sum of the assets you invest in.
 
 There are different asset classes that one can investigate when intending to invest. The focus will be on shares, commodities, ETFs, bonds and property. The methodology of how to choose what to invest in within these different asset classes will be discussed.
-
-
 
 ## Factors to Consider
 
@@ -26,15 +24,11 @@ You need to keep your eyes on fees throughout your investing journey. Fees impac
 
 Your annual tax-free contribution of R36,000 includes fees. Whenever you transact in your tax-free account, the brokerage fees are deducted from your contribution. This means that higher fees eat into your tax-free allocation, therefore, less of your money can grow tax-free. Lower fees are always better!
 
-
-
 #### Risk Appetite
 
 Risk is tied to two things – time and volatility. Time will be covered in the next point. Volatility is a measurement of how something, such as share price, fluctuates. Higher volatility implies higher risk.
 
 Your appetite for risk is indicated by how you handle volatility. Would a share price jump of +13% get you over the moon? Would a subsequent -5% decline of the same share a day later give you sleepless nights? Or can you take those daily changes without as much as a wink from you? You need to do introspection and decide on how much volatility you can sanely tolerate. Knowing your risk appetite will allow you to allocate your capital in investments that you are comfortable with.
-
-
 
 ### Time
 
@@ -52,13 +46,9 @@ Setting specific goals and deadlines for your goals helps you decide where to pu
 
 When you know what goals you are trying to achieve, you will make a more informed decision on what the best ‘tool’ for the job is. Diving in headfirst without having set goals is like buying tools to fix your bicycle without knowing exactly what is wrong with your bicycle – chances of success are very slim.
 
-
-
 ## Shares
 
 Shares can be described as ownership of a company. When you buy shares, there are several things you need to look out for.
-
-
 
 #### Non-technical things to look out for
 
@@ -67,8 +57,6 @@ Firstly, make sure you understand the company you are investing in. Do you know 
 Secondly, familiarity should work to your advantage. Do you shop at Shoprite? Then consider investing in Shoprite, since you will be contributing to their profits. Being a customer also gives you an idea of their operations and therefore you know a bit more about the company. A word of warning though, do not go in blindly. Look up the management of the company, their credentials and the company’s business model if you can. Find out as much as you can about the company, look for characteristics that are fundamental to the company such as where they primarily operate – since this affects their profitability.
 
 Thirdly, do not invest in companies that are all in the same industry. Imagine you buy shares in gold mining companies and the price of gold goes down by a significant amount. All the companies you invested in will decrease in share price, and therefore the value of your entire portfolio will decrease.
-
-
 
 ### The technical factors to look at
 
@@ -83,8 +71,6 @@ There are several factors to consider when analyzing a company, we will look at 
 * **Dividend Yield**: This is the percentage of dividends compared to the share price that the company pays out to shareholders in a year. It is calculated by dividing the dividends paid out in a one-year period per share by the value of a share. If you are investing for income, you are looking for a high dividend yield. However, be cautious, since dividend yield can be misleading in some cases. The value of a share price can plummet, but the dividend remains the same, in this case, the dividend yield would sky-rocket, even though the dividend payout per share has not changed, or maybe has even decreased.
 * **Return on Equity** (ROE): ROE is a measure of how efficiently a company uses its assets to make a profit. You calculate this by dividing the net income of the company by its book value. As with the P/E, this value works best when compared with that of similar companies.
 * **Debt to Equity** (D/E): This ratio tells you how much debt a company has compared to its net assets. You are looking for a company with a low D/E because more debt makes a company more financially vulnerable.
-
-
 
 ## Bonds
 
@@ -104,7 +90,7 @@ Here are the features of a bond:
 
 
 
-### Why would you want bonds in your portfolio?
+#### Why would you want bonds in your portfolio?
 
 The simple answer is: diversification. Bonds are a safer investment as opposed to shares. The price of bonds is less volatile, and the return is more predictable. In the case of a company being liquidated, bond-holders are higher on the priority list of getting paid back than shareholders. The disadvantage of bonds is that their price does not grow as much as the price of shares.
 
@@ -114,7 +100,7 @@ Governments can issue bonds through exchanges, just like companies, or they can 
 
 
 
-### Here's a scenario
+#### Here's a scenario
 
 It is 2017 and the government needs R400 billion to cover Eskom’s debt and to restructure the grid to renewable energy, so they decide to gather that amount of money via bonds. They decide to issue 400 million bonds worth R1000 each. The term of the bond is 10 years. The coupon rate on this bond is 5%, which is split and paid semiannually.
 
@@ -149,7 +135,7 @@ There are things you should look at when you are deciding which ETF to buy, name
 
 
 
-### Fees
+#### Fees
 
 Fees are important to consider when buying ETFs. The fees applicable to ETFs include the total expense ratio (TER) and the total investment cost (TIC). If ETFs investments are the same in every way except fees, then the ETF with the lower fees will perform better.
 
@@ -163,7 +149,7 @@ Fortunately, ETFs save you a significant amount on brokerage fees. This is in co
 
 
 
-### Methodology
+#### Methodology
 
 The ETF methodology is the strategy that is implemented in the ETF to select the companies or their weighting. Methodologies can vary from market capitalization, equal-weighted, all the way to smart-beta. The information on the methodology of an ETF can be found in the ETF’s minimum disclosure document, which is given on the ETF issuer’s website. A consolidated list of ETFs and their information can also be found on etfsa.co.za.
 
@@ -171,9 +157,9 @@ As a rule, read the minimum disclosure document of an ETF before buying it. Make
 
 
 
-### Asset Classes
+#### Asset Classes
 
-According to Vanguard’s document on portfolio construction, an asset is “an item of value, including bonds, stocks and other securities, cash, or physical items such as inventory, a house or a car.” Things like cars are actually not considered assets. Firstly, they depreciate. Secondly, unless you are an Uber driver, cars do not directly make you any money.
+According to Vanguard’s document on portfolio construction, an asset is “an item of value, including bonds, stocks and other securities, cash, or physical items such as inventory, a house or a car.” Things like cars are actually not considered assets. Firstly, they depreciate. Secondly, unless you offer driving, delivery or similar services, cars do not directly make you any money.
 
 Different assets behave in varying ways in different market conditions. For example, your offshore ETFs would be affected by the exchange rate. To construct your portfolio such that you make money all throughout the year and through different market conditions, you need to decide on how much of each asset you want in your portfolio. The younger you are, the more you would want to tilt your asset allocation towards equity.
 
@@ -210,6 +196,8 @@ You may buy individual property companies, you would analyze these the same way 
 Look for property companies that have a diverse set of properties, from rental properties, retail, office and tourism, all the way to infrastructure sectors. You can invest in both local and international property. 
 
 **Companies that rent out properties are appealing because that rental income is shared among investors, just like dividends in a normal company. These are great for income investors, who enjoy getting a regular income from their portfolios.**
+
+
 
 ## **Conclusion**
 
