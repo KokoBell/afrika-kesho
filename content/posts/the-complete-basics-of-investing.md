@@ -12,8 +12,6 @@ Knowing what investing is and having a general idea of how it works is a giant l
 
 There are different asset classes that one can investigate when intending to invest. The focus will be on shares, commodities, ETFs, bonds and property. The methodology of how to choose what to invest in within these different asset classes will be discussed.
 
-
-
 ## Factors to Consider
 
 #### Fees
@@ -22,19 +20,15 @@ You need to keep your eyes on fees throughout your investing journey. Fees impac
 
 * **Account Fees**: Account fees are the fees you pay for the privilege of having an account with the bank, broker or financial services provider you use to invest. Sometimes the cost is worth it. For example, the Standard Bank Online Share Trader platform is a comprehensive platform with a multitude of features including live share prices. If you plan to use the extra features, it might be worthwhile to pay the account fees. But, for the investor who wants the bare minimum, preference should be given to platforms such as Easy Equities that have no account fees.
 * **Brokerage Fees**: When you transact in an investment account, be it buying ETFs, shares or anything of that sort, you are charged a fee for buying and selling. This is the amount it costs to process the transaction. It’s known as the brokerage fee and is generally represented as a percentage of the amount you’re investing. Some accounts have a brokerage fee that decreases for larger transactions whilst others charge a constant fee irrespective of the amount invested.
-* Spread: The most misleading fee is spread. This is because it does not undertake the characteristics of a fee. The spread is defined as the difference between the selling price and the buying price. Excluding brokerage fees and share price fluctuations, if you bought and sold a share in the span of 1 second, you will most likely have less money than you started with. That’s because of the spread. Keep your eyes on the price! Make sure that the difference between the buying and sell prices are not unreasonably large.
+* **Spread**: The most misleading fee is spread. This is because it does not undertake the characteristics of a fee. The spread is defined as the difference between the selling price and the buying price. Excluding brokerage fees and share price fluctuations, if you bought and sold a share in the span of 1 second, you will most likely have less money than you started with. That’s because of the spread. Keep your eyes on the price! Make sure that the difference between the buying and sell prices are not unreasonably large.
 
 Your annual tax-free contribution of R36,000 includes fees. Whenever you transact in your tax-free account, the brokerage fees are deducted from your contribution. This means that higher fees eat into your tax-free allocation, therefore, less of your money can grow tax-free. Lower fees are always better!
-
-
 
 #### Risk Appetite
 
 Risk is tied to two things – time and volatility. Time will be covered in the next point. Volatility is a measurement of how something, such as share price, fluctuates. Higher volatility implies higher risk.
 
 Your appetite for risk is indicated by how you handle volatility. Would a share price jump of +13% get you over the moon? Would a subsequent -5% decline of the same share a day later give you sleepless nights? Or can you take those daily changes without as much as a wink from you? You need to do introspection and decide on how much volatility you can sanely tolerate. Knowing your risk appetite will allow you to allocate your capital in investments that you are comfortable with.
-
-
 
 #### Time
 
@@ -46,21 +40,15 @@ The type of investment is tied to time by risk. Volatility is the real tie. In t
 
 So, be conscious of how much time you have for your investments.
 
-
-
 #### Goal
 
 Setting specific goals and deadlines for your goals helps you decide where to put your money. If you would like to buy a car in the next 5 years, ask yourself what the best way to achieve that is. Could listed property give you the returns you are looking for? Or a bond? Or equity? If you want to save for your child’s education, or if you are trying to save for your own education, how would you go about it?
 
 When you know what goals you are trying to achieve, you will make a more informed decision on what the best ‘tool’ for the job is. Diving in headfirst without having set goals is like buying tools to fix your bicycle without knowing exactly what is wrong with your bicycle – chances of success are very slim.
 
-
-
 ## Shares
 
 Shares can be described as ownership of a company. When you buy shares, there are several things you need to look out for.
-
-
 
 #### Non-technical things to look out for
 
@@ -69,8 +57,6 @@ Firstly, make sure you understand the company you are investing in. Do you know 
 Secondly, familiarity should work to your advantage. Do you shop at Shoprite? Then consider investing in Shoprite, since you will be contributing to their profits. Being a customer also gives you an idea of their operations and therefore you know a bit more about the company. A word of warning though, do not go in blindly. Look up the management of the company, their credentials and the company’s business model if you can. Find out as much as you can about the company, look for characteristics that are fundamental to the company such as where they primarily operate – since this affects their profitability.
 
 Thirdly, do not invest in companies that are all in the same industry. Imagine you buy shares in gold mining companies and the price of gold goes down by a significant amount. All the companies you invested in will decrease in share price, and therefore the value of your entire portfolio will decrease.
-
-
 
 #### The technical factors to look at
 
@@ -86,8 +72,6 @@ There are several factors to consider when analyzing a company, we will look at 
 * **Return on Equity** (ROE): ROE is a measure of how efficiently a company uses its assets to make a profit. You calculate this by dividing the net income of the company by its book value. As with the P/E, this value works best when compared with that of similar companies.
 * **Debt to Equity** (D/E): This ratio tells you how much debt a company has compared to its net assets. You are looking for a company with a low D/E because more debt makes a company more financially vulnerable.
 
-
-
 ## Bonds
 
 Debt can be an investment. This investment comes in the form of bonds. There are a variety of bond issuers (the institutions whose bonds you would be buying), such as the government and the banks. Bonds are an alternative for institutions that do not want to seek bank loans.
@@ -98,11 +82,11 @@ When you buy a bond, you are borrowing that institution money. You get paid inte
 
 Here are the features of a bond:
 
-* Face/Par Value: this is the value that the issuer uses to calculate the interest. It is the amount that the bond will be worth at maturity.
-* Coupon Rate: the interest payments of a bond are called coupons. The coupon rate is the interest rate. It is a percentage of the face value.
-* Coupon Dates: these are the dates on which the bond issuer will make the coupon payments.
-* Maturity Date: on the maturity date, the face value of the bond is paid back to you. It is when the bond is said to have “matured”.
-* Term: the length of time from the issuing of the bonds to the maturity date.
+* **Face/Par Value**: this is the value that the issuer uses to calculate the interest. It is the amount that the bond will be worth at maturity.
+* **Coupon Rate**: the interest payments of a bond are called coupons. The coupon rate is the interest rate. It is a percentage of the face value.
+* **Coupon Dates**: these are the dates on which the bond issuer will make the coupon payments.
+* **Maturity Date**: on the maturity date, the face value of the bond is paid back to you. It is when the bond is said to have “matured”.
+* **Term**: the length of time from the issuing of the bonds to the maturity date.
 
 #### Why would you want bonds in your portfolio?
 
@@ -126,14 +110,10 @@ In this scenario, and in any scenario, here are the factors that you should cons
 * Market conditions
 * Anticipated interest rate changes
 
-
-
 ## ETFs
 
 Exchange-Traded Funds (ETFs) are one of many investment vehicles known as collective investment schemes. Collective investments schemes are just a mixture of different ingredients. The ingredients range from company shares, property shares, cash, bonds and commodities. These are mixed into one final product. When you buy a portion of this product, called a unit or a share, you are buying all the different ingredients that constitute the final product.\
 ETFs are not the only collective investment schemes. There are others, like Unit Trusts. The focus will be primarily on ETFs.
-
-
 
 #### ETFs track indices, but what is an index?
 
@@ -144,8 +124,6 @@ There are things you should look at when you are deciding which ETF to buy, name
 * Fees
 * Methodology
 * Asset Classes
-
-
 
 #### Fees
 
@@ -159,15 +137,11 @@ The TIC, total investment cost, includes the asset management fee, TER, and othe
 
 Fortunately, ETFs save you a significant amount on brokerage fees. This is in comparison to if you had to buy the same number of stocks individually.
 
-
-
 #### Methodology
 
 The ETF methodology is the strategy that is implemented in the ETF to select the companies or their weighting. Methodologies can vary from market capitalization, equal-weighted, all the way to smart-beta. The information on the methodology of an ETF can be found in the ETF’s minimum disclosure document, which is given on the ETF issuer’s website. A consolidated list of ETFs and their information can also be found on etfsa.co.za.
 
 As a rule, read the minimum disclosure document of an ETF before buying it. Make sure you understand the ETF and how it works and decide whether it can help you achieve the goals you have set.
-
-
 
 #### Asset Classes
 
@@ -178,8 +152,6 @@ Different assets behave in varying ways in different market conditions. For exam
 The aim of a good asset allocation is that if one of your asset classes are in a loss-making state, then the money you are making in other assets more than compensates for the loss.
 
 ETFs are an efficient way of getting multiple products at once within the same asset class, but furthermore, ETFs allow you to gain exposure to multiple asset classes at once.
-
-
 
 ## Commodities
 
@@ -195,8 +167,6 @@ Each commodity has its own characteristics. Consider these characteristics if yo
 
 Commodity prices, and subsequently resources company share prices, tend to be cyclical. But, the cyclical behaviour itself is not constant, and that makes commodity prices extremely difficult to anticipate. This could be detrimental to your portfolio if you do not tread carefully in the commodities space. Another shortcoming of commodities is that they do not offer any income. The profit, if any, is purely from price movements. That means your portfolio could have lengthy bouts of stagnancy if the commodity prices do not rise, with no income to make up for the stagnancy.
 
-
-
 ## Property
 
 Property may refer to an empty piece of land or to a building and the land on which it stands. You can physically buy buildings and other properties as an investment strategy, but that adds layers of complexity to your portfolio. You need a significant amount of starting capital to pull it off, as well as enough money to buy multiple properties in different areas to have a diversified portfolio. There is also the issue of maintenance and tenant management, the list of hurdles goes on.
@@ -208,8 +178,6 @@ You may buy individual property companies, you would analyze these the same way 
 Look for property companies that have a diverse set of properties, from rental properties, retail, office and tourism, all the way to infrastructure sectors. You can invest in both local and international property. 
 
 **Companies that rent out properties are appealing because that rental income is shared among investors, just like dividends in a normal company. These are great for income investors, who enjoy getting a regular income from their portfolios.**
-
-
 
 ## **Conclusion**
 
