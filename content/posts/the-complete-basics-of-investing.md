@@ -12,6 +12,8 @@ Knowing what investing is and having a general idea of how it works is a giant l
 
 There are different asset classes that one can investigate when intending to invest. The focus will be on shares, commodities, ETFs, bonds and property. The methodology of how to choose what to invest in within these different asset classes will be discussed.
 
+
+
 ## Factors to Consider
 
 #### Fees
@@ -24,13 +26,17 @@ You need to keep your eyes on fees throughout your investing journey. Fees impac
 
 Your annual tax-free contribution of R36,000 includes fees. Whenever you transact in your tax-free account, the brokerage fees are deducted from your contribution. This means that higher fees eat into your tax-free allocation, therefore, less of your money can grow tax-free. Lower fees are always better!
 
+
+
 #### Risk Appetite
 
 Risk is tied to two things – time and volatility. Time will be covered in the next point. Volatility is a measurement of how something, such as share price, fluctuates. Higher volatility implies higher risk.
 
 Your appetite for risk is indicated by how you handle volatility. Would a share price jump of +13% get you over the moon? Would a subsequent -5% decline of the same share a day later give you sleepless nights? Or can you take those daily changes without as much as a wink from you? You need to do introspection and decide on how much volatility you can sanely tolerate. Knowing your risk appetite will allow you to allocate your capital in investments that you are comfortable with.
 
-### Time
+
+
+#### Time
 
 Ask yourself: “When will I need to access this money?”
 
@@ -38,7 +44,9 @@ The question of time is vital to determine the kind of investments you will make
 
 The type of investment is tied to time by risk. Volatility is the real tie. In the short term, equity (shares) are not great for parking your money. The market may crash the day before you were planning to sell your shares. Or the shares you bought might collapse. Furthermore, buying bonds for the long term is uneconomical. Equities give better returns in the long term, and inflation eats into your invested bond capital over the long term.
 
-So, be conscious of how much time you have for your investments. 
+So, be conscious of how much time you have for your investments.
+
+
 
 #### Goal
 
@@ -46,9 +54,13 @@ Setting specific goals and deadlines for your goals helps you decide where to pu
 
 When you know what goals you are trying to achieve, you will make a more informed decision on what the best ‘tool’ for the job is. Diving in headfirst without having set goals is like buying tools to fix your bicycle without knowing exactly what is wrong with your bicycle – chances of success are very slim.
 
+
+
 ## Shares
 
 Shares can be described as ownership of a company. When you buy shares, there are several things you need to look out for.
+
+
 
 #### Non-technical things to look out for
 
@@ -58,7 +70,9 @@ Secondly, familiarity should work to your advantage. Do you shop at Shoprite? Th
 
 Thirdly, do not invest in companies that are all in the same industry. Imagine you buy shares in gold mining companies and the price of gold goes down by a significant amount. All the companies you invested in will decrease in share price, and therefore the value of your entire portfolio will decrease.
 
-### The technical factors to look at
+
+
+#### The technical factors to look at
 
 There is a method in the investing world called Fundamental Analysis. This is when you analyze a company’s financial statements, competitors, health and markets. We will be primarily focused on the financial statements, or rather, condensed information from the financial statements which have been made readily available.
 
@@ -71,6 +85,8 @@ There are several factors to consider when analyzing a company, we will look at 
 * **Dividend Yield**: This is the percentage of dividends compared to the share price that the company pays out to shareholders in a year. It is calculated by dividing the dividends paid out in a one-year period per share by the value of a share. If you are investing for income, you are looking for a high dividend yield. However, be cautious, since dividend yield can be misleading in some cases. The value of a share price can plummet, but the dividend remains the same, in this case, the dividend yield would sky-rocket, even though the dividend payout per share has not changed, or maybe has even decreased.
 * **Return on Equity** (ROE): ROE is a measure of how efficiently a company uses its assets to make a profit. You calculate this by dividing the net income of the company by its book value. As with the P/E, this value works best when compared with that of similar companies.
 * **Debt to Equity** (D/E): This ratio tells you how much debt a company has compared to its net assets. You are looking for a company with a low D/E because more debt makes a company more financially vulnerable.
+
+
 
 ## Bonds
 
@@ -88,8 +104,6 @@ Here are the features of a bond:
 * Maturity Date: on the maturity date, the face value of the bond is paid back to you. It is when the bond is said to have “matured”.
 * Term: the length of time from the issuing of the bonds to the maturity date.
 
-
-
 #### Why would you want bonds in your portfolio?
 
 The simple answer is: diversification. Bonds are a safer investment as opposed to shares. The price of bonds is less volatile, and the return is more predictable. In the case of a company being liquidated, bond-holders are higher on the priority list of getting paid back than shareholders. The disadvantage of bonds is that their price does not grow as much as the price of shares.
@@ -97,8 +111,6 @@ The simple answer is: diversification. Bonds are a safer investment as opposed t
 Due to the trade-off between risk and reward, a well-diversified portfolio usually has some exposure to bonds, so that when the share market is not doing well the bond income can be a counterbalance.
 
 Governments can issue bonds through exchanges, just like companies, or they can issue bonds directly to the public. In South Africa, you can buy Retail Savings Bonds directly from the National Treasury, the South African Post Office, or Pick n Pay stores.
-
-
 
 #### Here's a scenario
 
