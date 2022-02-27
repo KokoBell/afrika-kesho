@@ -1,5 +1,5 @@
 <template>
-  <form netlify>
+  <form>
     <!-- Name -->
     <div class="field">
       <label class="label is-medium">Name</label>
