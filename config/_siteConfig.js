@@ -8,6 +8,7 @@ import theCMS from '../cms/netlify/cms'
 /**
  * General Site configurations
  */
+console.log(process.env.GOOGLE_ANALYTICS_ID)
 export default {
   siteName: 'Afrika Kesho',
   tagline: 'We are a financial education company with a focus on personal and community finances and entrepreneurship.',
