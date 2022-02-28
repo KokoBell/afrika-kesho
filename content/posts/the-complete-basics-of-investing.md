@@ -32,8 +32,6 @@ Your appetite for risk is indicated by how you handle volatility. Would a share 
 
 #### Time
 
-![A black and green clock]( "When will you need access to this money?")
-
 Ask yourself: “When will I need to access this money?”
 
 The question of time is vital to determine the kind of investments you will make and the vehicles in which to make them. If you want to save for retirement you can put your money in a retirement annuity. Alternatively, if you have money that you will not have to touch in 20+ years, you can put it in your tax-free savings account and let it grow in perpetuity. If you just need a place to park your money for a year or two then you can buy a bond or leave your money in an interest-bearing bank account (money market). The list goes on.
@@ -49,8 +47,6 @@ Setting specific goals and deadlines for your goals helps you decide where to pu
 When you know what goals you are trying to achieve, you will make a more informed decision on what the best ‘tool’ for the job is. Diving in headfirst without having set goals is like buying tools to fix your bicycle without knowing exactly what is wrong with your bicycle – chances of success are very slim.
 
 ## Shares
-
-![Black man with a pie chart and investment growth graph]( "You can buy part-ownership in existing companies like Astral Foods (which makes Goldi Chicken) and Mr Price Group. Since you'll only have part-ownership, you are sharing the company's ownership, so your part of the company is represented as shares.")
 
 You can buy part-ownership in existing companies like Astral Foods (which makes Goldi Chicken), Mr Price Group etc. Since you'll only have part-ownership, you are sharing the company's ownership, so your part of the company is represented as shares. When you buy shares, there are several things you need to look out for, here are some of them.
 
@@ -116,8 +112,6 @@ In this scenario, and in any scenario, here are the factors that you should cons
 
 ## ETFs
 
-![Picnic basket with apple, cheese, bread and some fruits.]( "An ETF is like a picnic basket, it has many different things inside")
-
 Exchange-Traded Funds (ETFs) are one of many investment vehicles known as collective investment schemes. You can think of a collective investment scheme as a picnic basket. Each basket can have different things, from company shares to property shares, cash, bonds and commodities etc. Just like you can buy a portion of a company as a share, you can buy a portion of the basket, called a unit. Each unit has a piece of everything that's in the basket.\
 ETFs are not the only collective investment schemes. There are others, like Unit Trusts and Exchange Traded Notes. The focus will be primarily on ETFs.
 
@@ -161,8 +155,6 @@ ETFs are an efficient way of getting multiple products at once within the same a
 
 ## Commodities
 
-![Corn seedlings growing in healthy soil]( "There are a lot of investment lessons to learn from farming")
-
 One of the reasons people invest in commodities is to have a sense of security. The idea of having a physical asset behind whichever financial commitment you made, brings an air of comfort. This is why gold is one of the best examples of a commodity that people invest in.
 
 It probably isn’t a good idea (or possible) to store physical pieces of gold at home. With that said, commodity ETFs offer you access to physical assets without the risk of robbery. Unfortunately, you cannot buy commodity ETFs in your tax-free account.
@@ -174,8 +166,6 @@ Each commodity has its own characteristics. Consider these characteristics if yo
 Commodity prices, and subsequently resources company share prices, tend to be cyclical. But, the cyclical behaviour itself is not constant, and that makes commodity prices extremely difficult to anticipate. This could be detrimental to your portfolio if you do not tread carefully in the commodities space. Another shortcoming of commodities is that they do not offer any income. The profit, if any, is purely from price movements. That means your portfolio could have lengthy bouts of stagnancy if the commodity prices do not rise, with no income to make up for the stagnancy.
 
 ## Property
-
-![Black man standing outside of his home]()
 
 Property in this case refers to an empty piece of land or to a building and the land on which it stands. You can physically buy buildings and other properties as an investment strategy. This is usually inaccessible to those without a significant amount of starting capital, as well as enough money to buy multiple properties in different areas to have a diversified portfolio.
 
