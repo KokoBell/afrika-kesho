@@ -1,4 +1,104 @@
 <template>
+  <head>
+    <style>
+      .btn {
+        clear:both;
+        white-space:nowrap;
+        font-size:.8em;
+        display:inline-block;
+        border-radius:5px;
+        box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.35);
+        margin:2px;
+        -webkit-transition:all .5s;
+        -moz-transition:all .5s;
+        transition:all .5s;
+        overflow:hidden
+      }
+
+      .btn:hover {
+        box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.45);
+      }
+
+      .btn:focus {
+        box-shadow: 0 3px 10px 0 rgba(0, 0, 0, 0.4);
+      }
+
+      .btn > span,.btn-icon > i {
+        float:left;
+        padding:13px;
+        -webkit-transition:all .5s;
+        -moz-transition:all .5s;
+        transition:all .5s;
+        line-height:1em
+      }
+
+      .btn > span {
+        padding:14px 18px 16px;
+        white-space:nowrap;
+        color:#FFF;
+        background:#b8b8b8
+      }
+
+      .btn:focus > span {
+        background:#9a9a9a
+      }
+
+      .btn-icon > i {
+        border-radius:5px 0 0 5px;
+        position:relative;
+        width:13px;
+        text-align:center;
+        font-size:1.25em;
+        color:#fff;
+        background:#212121
+      }
+
+      .btn-icon > i:after {
+        content:"";
+        border:8px solid;
+        border-color:transparent transparent transparent #222;
+        position:absolute;
+        top:13px;
+        right:-15px
+      }
+
+      .btn-icon:hover > i,.btn-icon:focus > i {
+        color:#FFF
+      }
+
+      .btn-icon > span {
+        border-radius:0 5px 5px 0
+      }
+
+      /*Facebook*/
+      .btn-facebook:hover > i,.btn-facebook:focus > i {
+        color:#3b5998
+      }
+
+      .btn-facebook > span {
+        background:#3b5998
+      }
+
+      /*Twitter*/
+      .btn-twitter:hover > i,.btn-twitter:focus > i {
+        color:#55acee
+      }
+
+      .btn-twitter > span {
+        background:#55acee
+      }
+
+      /*Pinterest*/
+      .btn-instagram:hover > i,.btn-pinterest:focus > i {
+        color:#cb2028
+      }
+
+      .btn-instagram > span {
+        background:#cb2028
+      }
+
+    </style>
+  </head>
   <div id="contact-page" class="page-wrapper contact-page content-page">
     <site-hero
       title="Contact Us"
@@ -37,21 +137,17 @@
                 Follow and engage us on all our social media:
                 <ul>
                   <li>
-                    <a href="https://twitter.com/afrikakesho">
-                      <font-awesome-icon icon="twitter" />
+                    <a href="">
+                      <a class="btn btn-icon btn-twitter" href="https://twitter.com/afrikakesho" target="_blank"><i class="fa fa-twitter"></i><span>Twitter</span></a>
                     </a>
                   </li>
 
                   <li>
-                    <a href="https://www.facebook.com/OfficialAfrikaKesho">
-                      <font-awesome-icon icon="facebook" />
-                    </a>
+                    <a class="btn btn-icon btn-facebook" href="https://www.facebook.com/OfficialAfrikaKesho" target="_blank"><i class="fa fa-facebook"></i><span>Facebook</span></a>
                   </li>
 
                   <li>
-                    <a href="https://www.instagram.com/afrikakesho/">
-                      <font-awesome-icon icon="instagram" />
-                    </a>
+                    <a class="btn btn-icon btn-instagram" href="https://www.instagram.com/afrikakesho/" target="_blank"><i class="fa fa-instagram"></i><span>Instagram</span></a>
                   </li>
 
                 </ul>

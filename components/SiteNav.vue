@@ -7,7 +7,7 @@
     <div class="navbar-brand">
       <nuxt-link class="navbar-item" to="/">
         <img
-          src="/static/logo.png"
+          src="../static/logo.png"
           class="logo"
         />
       </nuxt-link>
