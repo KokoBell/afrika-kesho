@@ -1,3 +1,18 @@
+<head>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-145087775-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-145087775-1');
+</script>
+
+
+</head>
+
 <template>
   <nav
     class="navbar has-shadow is-fixed-top"
