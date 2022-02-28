@@ -68,7 +68,7 @@ export default {
     mailchimp: {
       on: true,
       formAction:
-        'https://afrikakesho.us14.list-manage.com/subscribe/post?u=6d6e782851b97dadbbe156c1f&amp;id=0320d2714f'
+        'https://afrikakesho.us14.list-manage.com/subscribe/post?u=318797f621b2d3dc8113172d9&amp;id=10fa6664be'
     },
     custom: {
       on: false,
