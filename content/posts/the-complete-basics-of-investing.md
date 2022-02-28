@@ -48,7 +48,7 @@ When you know what goals you are trying to achieve, you will make a more informe
 
 ## Shares
 
-Shares can be described as ownership of a company. When you buy shares, there are several things you need to look out for.
+You can buy part-ownership in existing companies like Astral Foods (which makes Goldi Chicken), Mr Price Group etc. Since you'll only have part-ownership, you are sharing the company's ownership, so your part of the company is represented as shares. When you buy shares, there are several things you need to look out for, here are some of them.
 
 #### Non-technical things to look out for
 
@@ -62,7 +62,7 @@ Thirdly, do not invest in companies that are all in the same industry. Imagine y
 
 There is a method in the investing world called Fundamental Analysis. This is when you analyze a company’s financial statements, competitors, health and markets. We will be primarily focused on the financial statements, or rather, condensed information from the financial statements which have been made readily available.
 
-There are several factors to consider when analyzing a company, we will look at *Earnings per Share*, *Price to Earning’s Ratio*, *Price to Book Ratio*, *Dividend Payout Ratio*, *Dividend Yield* and *Return on Equity*. The information you need to calculate these values, if they have not been calculated already, is freely available on investing websites such as investing.com and SimplyWallStreet. Also, public companies themselves have to publish their financial statements, which is where you get the information you need to calculate these values.
+There are several factors to consider when analyzing a company, we will look at *Earnings per Share*, *Price to Earning’s Ratio*, *Price to Book Ratio*, *Dividend Payout Ratio*, *Dividend Yield* and *Return on Equity*. The information you need to calculate these values is freely available on investing websites such as investing.com and SimplyWallStreet. Also, public companies themselves have to publish their financial statements, which is where you get the information you need to calculate these values.
 
 * **Earnings per Share** (EPS): This is the net earnings divided by the outstanding shares. Wikipedia defines outstanding shares as “all the shares of a corporation or financial asset that have been authorized, issued and purchased by investors and are held by them.”
 *  **Price to Earnings Ratio** (P/E): This is the current price of a share divided by the EPS of a company. It tells you whether the price of a company is overvalued, undervalued or fairly valued. You would compare the company’s P/E with the P/E’s of similar companies to get a sense of how the company is valued. You want your P/E to be reasonably low relative to the P/E of similar companies. When a P/E is too low it is a sign that something might be wrong with the company – or at least the market thinks so.
@@ -104,16 +104,16 @@ In 2019, you decide that you need some bonds in your portfolio. You look around,
 
 In this scenario, and in any scenario, here are the factors that you should consider before buying the bond:
 
-* Coupon rate
-* Credibility and reliability of the bond issuer
-* The price of the bond
-* Market conditions
-* Anticipated interest rate changes
+* **Coupon rate**
+* **Credibility and reliability of the bond issuer**
+* **The price of the bond**
+* **Market conditions**
+* **Anticipated interest rate changes**
 
 ## ETFs
 
-Exchange-Traded Funds (ETFs) are one of many investment vehicles known as collective investment schemes. Collective investments schemes are just a mixture of different ingredients. The ingredients range from company shares, property shares, cash, bonds and commodities. These are mixed into one final product. When you buy a portion of this product, called a unit or a share, you are buying all the different ingredients that constitute the final product.\
-ETFs are not the only collective investment schemes. There are others, like Unit Trusts. The focus will be primarily on ETFs.
+Exchange-Traded Funds (ETFs) are one of many investment vehicles known as collective investment schemes. You can think of a collective investment scheme as a picnic basket. Each basket can have different things, from company shares to property shares, cash, bonds and commodities etc. Just like you can buy a portion of a company as a share, you can buy a portion of the basket, called a unit. Each unit has a piece of everything that's in the basket.\
+ETFs are not the only collective investment schemes. There are others, like Unit Trusts and Exchange Traded Notes. The focus will be primarily on ETFs.
 
 #### ETFs track indices, but what is an index?
 
@@ -121,9 +121,9 @@ An index is a way of tracking the average share price of a group of companies on
 
 There are things you should look at when you are deciding which ETF to buy, namely:
 
-* Fees
-* Methodology
-* Asset Classes
+* **Fees**
+* **Methodology**
+* **Asset Classes**
 
 #### Fees
 
@@ -145,7 +145,7 @@ As a rule, read the minimum disclosure document of an ETF before buying it. Make
 
 #### Asset Classes
 
-According to Vanguard’s document on portfolio construction, an asset is “an item of value, including bonds, stocks and other securities, cash, or physical items such as inventory, a house or a car.” Things like cars are actually not considered assets. Firstly, they depreciate. Secondly, unless you offer driving, delivery or similar services, cars do not directly make you any money.
+A loose definition of an asset is anything that brings you income. Things like cars can be either can asset or not depending on how you use it. Firstly, they depreciate, meaning as time goes you lose some of the money you bought the car with. If you offer driving, delivery or similar services, then your car is an asset if it beings in more money than it takes out.
 
 Different assets behave in varying ways in different market conditions. For example, your offshore ETFs would be affected by the exchange rate. To construct your portfolio such that you make money all throughout the year and through different market conditions, you need to decide on how much of each asset you want in your portfolio. The younger you are, the more you would want to tilt your asset allocation towards equity.
 
@@ -155,13 +155,11 @@ ETFs are an efficient way of getting multiple products at once within the same a
 
 ## Commodities
 
-The reason people invest in commodities is to have a sense of security. The idea of having a physical asset backing whatever financial commitment you made brings an air of comfort. In his wisdom, Simon Brown alludes to investing in wheat and corn as commodities, rather than gold and rhodium. That is if you choose to invest in commodities at all. While doomsday preppers might buy silver, Simon thinks that if the day were to ever come, people would be fighting for food rather than silver.
+One of the reasons people invest in commodities is to have a sense of security. The idea of having a physical asset behind whichever financial commitment you made, brings an air of comfort. This is why gold is one of the best examples of a commodity that people invest in.
 
-While it may be a good idea to be safe rather than sorry, it probably isn’t a good idea to be storing large volumes of gold at your home. With that said, commodity ETFs offer you access to physical assets without the risk of robbery.
+It probably isn’t a good idea (or possible) to store physical pieces of gold at home. With that said, commodity ETFs offer you access to physical assets without the risk of robbery. Unfortunately, you cannot buy commodity ETFs in your tax-free account.
 
-Unfortunately, you cannot buy commodity ETFs in your tax-free account.
-
-An alternative way to invest in commodities is to invest in companies that specialize in them.
+An alternative way to invest in commodities is to invest in companies that specialize in them. For example, investing in hydrogen gas buy buying shares in a hydrogen gas company.
 
 Each commodity has its own characteristics. Consider these characteristics if you want to invest in commodities. For example, if you want to buy a rhodium ETF, you should understand what rhodium is and what it is used for. You should understand its behaviour in the market and the factors that influence that behaviour. You should know who buys the rhodium, and when the rhodium is in high demand. You should also understand the companies that deal with rhodium.
 
@@ -169,13 +167,13 @@ Commodity prices, and subsequently resources company share prices, tend to be cy
 
 ## Property
 
-Property may refer to an empty piece of land or to a building and the land on which it stands. You can physically buy buildings and other properties as an investment strategy, but that adds layers of complexity to your portfolio. You need a significant amount of starting capital to pull it off, as well as enough money to buy multiple properties in different areas to have a diversified portfolio. There is also the issue of maintenance and tenant management, the list of hurdles goes on.
+Property in this case refers to an empty piece of land or to a building and the land on which it stands. You can physically buy buildings and other properties as an investment strategy. This is usually inaccessible to those without a significant amount of starting capital, as well as enough money to buy multiple properties in different areas to have a diversified portfolio.
 
-The easier route to property investing is buying shares in property companies or buying real estate investment trusts. This lifts the responsibility of property management from you to the company – while getting the benefit of profit.
+An alternative route to property investing is buying shares in property companies or buying real estate investment trusts. This lifts the responsibility of property management from you to the company – while getting the benefit of profit.
 
-You may buy individual property companies, you would analyze these the same way you should any other company. But you would go a step further by trying to find out which properties the company manages, and whether you deem them profitable or not.
+If you buy individual property companies you would analyze these the same way you should any other company. But you would go a step further by trying to find out which properties the company manages, where the properties are, and whether you deem them profitable or not, amongst other factors.
 
-Look for property companies that have a diverse set of properties, from rental properties, retail, office and tourism, all the way to infrastructure sectors. You can invest in both local and international property. 
+Look for property companies that have a diverse set of properties, from rental properties, retail, office and tourism, all the way to infrastructure sectors. You can invest in both local and international property.
 
 **Companies that rent out properties are appealing because that rental income is shared among investors, just like dividends in a normal company. These are great for income investors, who enjoy getting a regular income from their portfolios.**
 
