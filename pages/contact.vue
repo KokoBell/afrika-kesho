@@ -28,9 +28,20 @@
               <div class="content">
                 <p>
                   <strong>
-                    If you want to send us some feedback or suggestions, or even
-                    request a collaboration, feel free to use this contact form.
+                    If you want to send us some feedback,request a collaboration,
+                    or submit an article, contact us via this form.
                   </strong>
+                </p>
+
+                <p>
+                Follow and engage us on all our social media:
+                <ul>
+                  <li>
+                    <a href="https://twitter.com/afrikakesho">
+                      <font-awesome-icon icon="fa-brands fa-twitter" />
+                    </a>
+                  </li>
+                </ul>
                 </p>
               </div>
             </article>
