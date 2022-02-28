@@ -32,7 +32,7 @@ Your appetite for risk is indicated by how you handle volatility. Would a share 
 
 #### Time
 
-![A black and green clock](/uploads/time-edited.png "When will you need access to this money?")
+![A black and green clock]( "When will you need access to this money?")
 
 Ask yourself: “When will I need to access this money?”
 
@@ -50,7 +50,7 @@ When you know what goals you are trying to achieve, you will make a more informe
 
 ## Shares
 
-![Black man with a pie chart and investment growth graph](/uploads/shares-image.png "You can buy part-ownership in existing companies like Astral Foods (which makes Goldi Chicken) and Mr Price Group. Since you'll only have part-ownership, you are sharing the company's ownership, so your part of the company is represented as shares.")
+![Black man with a pie chart and investment growth graph]( "You can buy part-ownership in existing companies like Astral Foods (which makes Goldi Chicken) and Mr Price Group. Since you'll only have part-ownership, you are sharing the company's ownership, so your part of the company is represented as shares.")
 
 You can buy part-ownership in existing companies like Astral Foods (which makes Goldi Chicken), Mr Price Group etc. Since you'll only have part-ownership, you are sharing the company's ownership, so your part of the company is represented as shares. When you buy shares, there are several things you need to look out for, here are some of them.
 
@@ -116,7 +116,7 @@ In this scenario, and in any scenario, here are the factors that you should cons
 
 ## ETFs
 
-![Picnic basket with apple, cheese, bread and some fruits.](/uploads/basket-image.jpg "An ETF is like a picnic basket, it has many different things inside")
+![Picnic basket with apple, cheese, bread and some fruits.]( "An ETF is like a picnic basket, it has many different things inside")
 
 Exchange-Traded Funds (ETFs) are one of many investment vehicles known as collective investment schemes. You can think of a collective investment scheme as a picnic basket. Each basket can have different things, from company shares to property shares, cash, bonds and commodities etc. Just like you can buy a portion of a company as a share, you can buy a portion of the basket, called a unit. Each unit has a piece of everything that's in the basket.\
 ETFs are not the only collective investment schemes. There are others, like Unit Trusts and Exchange Traded Notes. The focus will be primarily on ETFs.
@@ -161,7 +161,7 @@ ETFs are an efficient way of getting multiple products at once within the same a
 
 ## Commodities
 
-![Corn seedlings growing in healthy soil](/uploads/commodities-image.jpg "There are a lot of investment lessons to learn from farming")
+![Corn seedlings growing in healthy soil]( "There are a lot of investment lessons to learn from farming")
 
 One of the reasons people invest in commodities is to have a sense of security. The idea of having a physical asset behind whichever financial commitment you made, brings an air of comfort. This is why gold is one of the best examples of a commodity that people invest in.
 
@@ -175,7 +175,7 @@ Commodity prices, and subsequently resources company share prices, tend to be cy
 
 ## Property
 
-![Black man standing outside of his home](/uploads/property-image.png)
+![Black man standing outside of his home]()
 
 Property in this case refers to an empty piece of land or to a building and the land on which it stands. You can physically buy buildings and other properties as an investment strategy. This is usually inaccessible to those without a significant amount of starting capital, as well as enough money to buy multiple properties in different areas to have a diversified portfolio.
 
