@@ -38,9 +38,22 @@
                 <ul>
                   <li>
                     <a href="https://twitter.com/afrikakesho">
-                      <font-awesome-icon icon="fa-brands fa-twitter" />
+                      <font-awesome-icon icon="twitter" />
                     </a>
                   </li>
+
+                  <li>
+                    <a href="https://www.facebook.com/OfficialAfrikaKesho">
+                      <font-awesome-icon icon="facebook" />
+                    </a>
+                  </li>
+
+                  <li>
+                    <a href="https://www.instagram.com/afrikakesho/">
+                      <font-awesome-icon icon="instagram" />
+                    </a>
+                  </li>
+
                 </ul>
                 </p>
               </div>
