@@ -26,6 +26,12 @@ export default {
    */
   css: css,
   /*
+   ** Let Nuxt know that the home page is the base directory
+   */
+  router: {
+    base: '/'
+  },
+  /*
    ** Plugins to load before mounting the App
    */
   plugins: plugins,

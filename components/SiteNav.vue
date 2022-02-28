@@ -9,7 +9,7 @@
         <site-logo v-if="$siteConfig.logo === 'logo-component'" />
         <img
           v-else
-          :src="/static/logo.png"
+          :src="$siteConfig.logo"
           :alt="$siteConfig.siteName"
           class="logo"
         />
