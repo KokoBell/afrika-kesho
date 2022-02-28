@@ -8,6 +8,7 @@ import theCMS from '../cms/netlify/cms'
 /**
  * General Site configurations
  */
+console.log("About to show google id")
 console.log(process.env.GOOGLE_ANALYTICS_ID)
 export default {
   siteName: 'Afrika Kesho',
