@@ -4,7 +4,7 @@ backend:
 # This line should *not* be indented
 media_folder: "assets/uploads" # Media files will be stored in the repo under images/uploads
 public_folder: "/uploads" # The src attribute for uploaded media will begin with /images/uploads
-site_url: https://afrikakesho.co.za
+site_url: https://www.afrikakesho.co.za
 logo_url: https://lucid-davinci-58d4a0.netlify.app/logo.png
 collections:
   - name: "posts" # Used in routes, e.g., /admin/collections/blog
