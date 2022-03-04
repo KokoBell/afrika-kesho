@@ -32,10 +32,6 @@
                     or submit an article, contact us via this form.
                   </strong>
                 </p>
-
-                <p>
-                Follow and engage us on all our social media:
-                </p>
               </div>
             </article>
           </div>

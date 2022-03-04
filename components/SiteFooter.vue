@@ -7,7 +7,11 @@
   </footer>
 
   <div class="social-media-grid">
-    <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Twitter</title><path d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z"/></svg>
+     <ul>
+        <li><a href="#"><span></span></a></li>
+        <li><a href="#"><span></span></a></li>
+        <li><a href="#"><span></span></a></li>
+    </ul>
   </div>
 </template>
 
@@ -18,10 +22,134 @@ export default {
 </script>
 
 <style scoped>
+@import url('https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
 footer {
   background: #eee;
   padding: 20px 10px;
   text-align: center;
   transition: 0.5s ease all;
+}
+
+ul {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+ul li {
+    position: relative;
+    list-style: none;
+    margin: 0 2px;
+}
+
+ul li::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -4px;
+    width: 40px;
+    height: 8px;
+    background: #000;
+    border-radius: 50%;
+    transition: 0.5s;
+    opacity: 0;
+    filter: blur(2px);
+    transform: scale(0.8);
+}
+
+ul li:hover::before {
+    transition-delay: 0.2s;
+    opacity: 0.2;
+    transform: scale(1);
+}
+
+ul li a {
+    width: 40px;
+    height: 40px;
+    display: block;
+    transition: 0.5s;
+}
+
+ul li:hover a {
+    transform: translateY(-10px);
+}
+
+ul li a span  {
+    width: 100%;
+    height: 100%;
+}
+
+ul li a span::before {
+    font-family: fontAwesome;
+    text-align: center;
+    line-height: 40px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #fff;
+    color: #262626;
+    transform-origin: top;
+    transition: transform 0.5s;
+}
+
+ul li:hover a span::before {
+    transform: rotateX(90deg) translateY(-50%);
+}
+
+ul li a span::after {
+    font-family: fontAwesome;
+    text-align: center;
+    line-height: 40px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    /* background: #fff;
+    color: #262626; */
+    transform-origin: bottom;
+    transition: transform 0.5s;
+    transform: rotateX(90deg) translateY(50%);
+}
+
+ul li:hover a span::after {
+    transform: rotateX(0deg) translateY(0);
+}
+
+ul li:nth-child(1) a span::before,
+ul li:nth-child(1) a span::after {
+    content: '\f09a';
+}
+
+ul li:nth-child(2) a span::before,
+ul li:nth-child(2) a span::after {
+    content: '\f099';
+}
+
+ul li:nth-child(3) a span::before,
+ul li:nth-child(3) a span::after {
+    content: '\f0e1';
+}
+
+ul li:nth-child(1) a span::after {
+    background: #3b5999;
+    color: #fff;
+}
+
+ul li:nth-child(2) a span::after {
+    background: #55acce;
+    color: #fff;
+}
+
+ul li:nth-child(3) a span::after {
+    background: #0077b5;
+    color: #fff;
 }
 </style>
