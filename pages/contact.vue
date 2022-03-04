@@ -28,8 +28,8 @@
               <div class="content">
                 <p>
                   <strong>
-                    If you want to send us some feedback,request a collaboration,
-                    or submit an article, get in touch using the contact form.
+                    If you want to send us some feedback, request a collaboration,
+                     or submit an article, get in touch using the contact form.
                   </strong>
                 </p>
 
