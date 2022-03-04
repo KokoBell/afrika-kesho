@@ -4,15 +4,18 @@
     Rights Reserved
     <br />
     Planting financial seeds for Africa
-  </footer>
 
-  <div class="social-media-grid">
-     <ul>
-        <li><a href="#"><span></span></a></li>
-        <li><a href="#"><span></span></a></li>
-        <li><a href="#"><span></span></a></li>
-    </ul>
-  </div>
+    <div class="social-media-grid">
+
+      <ul>
+          <li><a href="#"><span></span></a></li>
+          <li><a href="#"><span></span></a></li>
+          <li><a href="#"><span></span></a></li>
+          <li><a href="#"><span></span></a></li>
+      </ul>
+
+    </div>
+  </footer>
 </template>
 
 <script>
@@ -22,6 +25,7 @@ export default {
 </script>
 
 <style scoped>
+
 @import url('https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
 
 footer {
@@ -31,6 +35,11 @@ footer {
   transition: 0.5s ease all;
 }
 
+body {
+    margin: 0;
+    padding: 0;
+    background: #f1f1f1;
+}
 ul {
     position: absolute;
     top: 50%;
@@ -40,13 +49,11 @@ ul {
     padding: 0;
     display: flex;
 }
-
 ul li {
     position: relative;
     list-style: none;
     margin: 0 2px;
 }
-
 ul li::before {
     content: '';
     position: absolute;
@@ -61,29 +68,24 @@ ul li::before {
     filter: blur(2px);
     transform: scale(0.8);
 }
-
 ul li:hover::before {
     transition-delay: 0.2s;
     opacity: 0.2;
     transform: scale(1);
 }
-
 ul li a {
     width: 40px;
     height: 40px;
     display: block;
     transition: 0.5s;
 }
-
 ul li:hover a {
     transform: translateY(-10px);
 }
-
 ul li a span  {
     width: 100%;
     height: 100%;
 }
-
 ul li a span::before {
     font-family: fontAwesome;
     text-align: center;
@@ -98,11 +100,9 @@ ul li a span::before {
     transform-origin: top;
     transition: transform 0.5s;
 }
-
 ul li:hover a span::before {
     transform: rotateX(90deg) translateY(-50%);
 }
-
 ul li a span::after {
     font-family: fontAwesome;
     text-align: center;
@@ -118,38 +118,40 @@ ul li a span::after {
     transition: transform 0.5s;
     transform: rotateX(90deg) translateY(50%);
 }
-
 ul li:hover a span::after {
     transform: rotateX(0deg) translateY(0);
 }
-
 ul li:nth-child(1) a span::before,
 ul li:nth-child(1) a span::after {
     content: '\f09a';
 }
-
 ul li:nth-child(2) a span::before,
 ul li:nth-child(2) a span::after {
     content: '\f099';
 }
-
 ul li:nth-child(3) a span::before,
 ul li:nth-child(3) a span::after {
+    content: '\f0d5';
+}
+ul li:nth-child(4) a span::before,
+ul li:nth-child(4) a span::after {
     content: '\f0e1';
 }
-
 ul li:nth-child(1) a span::after {
     background: #3b5999;
     color: #fff;
 }
-
 ul li:nth-child(2) a span::after {
     background: #55acce;
     color: #fff;
 }
-
 ul li:nth-child(3) a span::after {
+    background: #dd4b39;
+    color: #fff;
+}
+ul li:nth-child(4) a span::after {
     background: #0077b5;
     color: #fff;
 }
+
 </style>
