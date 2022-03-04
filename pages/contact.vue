@@ -36,9 +36,6 @@
                 <p>
                 Follow and engage us on all our social media:
                 </p>
-                    <a class="btn btn-icon btn-twitter" href="https://twitter.com/afrikakesho" target="_blank"><i class="fa fa-twitter"></i><span>Twitter</span></a>
-                    <a class="btn btn-icon btn-facebook" href="https://www.facebook.com/OfficialAfrikaKesho" target="_blank"><i class="fa fa-facebook"></i><span>Facebook</span></a>
-                    <a class="btn btn-icon btn-instagram" href="https://www.instagram.com/afrikakesho/" target="_blank"><i class="fa fa-instagram"></i><span>Instagram</span></a>
               </div>
             </article>
           </div>
