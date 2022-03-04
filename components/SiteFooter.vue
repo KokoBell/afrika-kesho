@@ -141,7 +141,7 @@ ul li:nth-child(2) a span::after {
 
 ul li:nth-child(3) a span::before,
 ul li:nth-child(3) a span::after {
-    content: '\f0e1';
+    content: '\f16d';
 }
 ul li:nth-child(1) a span::after {
     background: #3b5999;
@@ -152,7 +152,7 @@ ul li:nth-child(2) a span::after {
     color: #fff;
 }
 ul li:nth-child(3) a span::after {
-    background: #0077b5;
+    background: radial-gradient(circle farthest-corner at 35% 90%, #fec564, transparent 50%), radial-gradient(circle farthest-corner at 0 140%, #fec564, transparent 50%), radial-gradient(ellipse farthest-corner at 0 -25%, #5258cf, transparent 50%), radial-gradient(ellipse farthest-corner at 20% -50%, #5258cf, transparent 50%), radial-gradient(ellipse farthest-corner at 100% 0, #893dc2, transparent 50%), radial-gradient(ellipse farthest-corner at 60% -20%, #893dc2, transparent 50%), radial-gradient(ellipse farthest-corner at 100% 100%, #d9317a, transparent), linear-gradient(#6559ca, #bc318f 30%, #e33f5f 50%, #f77638 70%, #fec66d 100%);
     color: #fff;
 }
 
