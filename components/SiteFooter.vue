@@ -41,10 +41,6 @@ body {
     background: #f1f1f1;
 }
 ul {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
     margin: 0;
     padding: 0;
     display: flex;
