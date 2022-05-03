@@ -14,6 +14,7 @@ export const modules = [
   '@nuxtjs/axios',
   '@nuxtjs/eslint-module',
   '@nuxtjs/style-resources',
+  'nuxt-mail',
   'nuxt-fontawesome',
   'nuxt-responsive-loader'
 ]
@@ -50,5 +51,18 @@ export const modulesSettings = {
   },
   'google-gtag': {
     id: siteConfig.googleAnalytics.id
+  },
+  mail: {
+    message: {
+      to: 'afrika.kesho@gmail.com',
+    },
+    smtp: {
+      host: 'mail.afrikakesho.co.za',
+      port: 465,
+      auth: {
+        user: process.env.EMAIL_USERNAME,
+        pass: process.env.PASSWORD
+      }
+    },
   }
 }
