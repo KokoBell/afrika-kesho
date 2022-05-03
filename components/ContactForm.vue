@@ -65,38 +65,20 @@
 </template>
 
 <script>
- 
- import emailjs from 'emailjs-com'
-
- export default {
-  name: 'ContactUs',
-  data() {
-    return {
-      name: '',
-      email: '',
-      message: ''
-    }
-  },
+export default {
+  data: () => ({
+    
+    email: '',
+    message: '',
+  }),
   methods: {
-    sendEmail(e) {
-      try {
-        emailjs.sendForm('service_3hnq726', 'template_k9kgxm4', e.target,
-        '2jHUhJntZZjX3-FsC', {
-          name: this.name,
-          subject: this.subject,
-          email: this.email,
-          message: this.message
-        })
-
-      } catch(error) {
-          console.log({error})
-      }
-      // Reset form field
-      this.name = ''
-      this.email = ''
-      this.message = ''
-    },
+    send() {
+      this.$mail.send({
+        from: this.email,
+        subject: this.subject,
+        text: this.message,
+      })
+    }
   }
 }
-
 </script>
