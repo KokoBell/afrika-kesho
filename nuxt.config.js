@@ -32,7 +32,22 @@ export default {
   /*
    ** Nuxt.js modules
    */
-  modules: modules,
+  modules: [
+    '@nuxtjs/axios',
+    ['nuxt-mail', {
+      message: {
+        to: 'afrika.kesho@gmail.com',
+      },
+      smtp: {
+        host: 'mail.afrikakesho.co.za',
+        port: 465,
+        auth: {
+          user: process.env.EMAIL_USERNAME,
+          pass: process.env.EMAIL_PASSWORD
+        },
+      },
+    }],
+  ],
   ...modulesSettings,
   /*
    ** Build configuration
