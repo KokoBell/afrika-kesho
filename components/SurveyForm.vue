@@ -25,8 +25,10 @@ export default {
   computed: {
     formAction() {
       if (this.$siteConfig.survey.on) {
+        window.location.href = this.$siteConfig.survey.google.link
         return this.$siteConfig.survey.google.link
       }
+      window.location.href = this.$siteConfig.survey.custom.link
       return this.$siteConfig.survey.custom.link
     }
   }
