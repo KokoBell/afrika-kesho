@@ -7,7 +7,7 @@
           </span>
         </p>
         <div class="control">
-          <a href="/about" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+          <a href="https://forms.gle/wigPpZHCAuBwcwyt5" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
             <button type="button" class="button is-primary">
               {{ $siteConfig.survey.btnText || 'Plant money Seeds' }}
             </button>
