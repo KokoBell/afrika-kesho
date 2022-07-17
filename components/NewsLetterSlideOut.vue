@@ -9,7 +9,7 @@
     <div class="message-header">
       <!-- :icon="active ? 'times' : 'envelope'" -->
       <font-awesome-icon
-        :icon="active ? 'times' : 'question'"
+        :icon="active ? 'times' : 'envelope'"
         :aria-label="active ? 'close' : 'open'"
         class="close"
         @click="toggle()"
