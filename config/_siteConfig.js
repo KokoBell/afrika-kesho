@@ -75,6 +75,18 @@ export default {
       formAction: ''
     }
   },
+  //Survey
+  survey: {
+    btnText: 'Take the Survey',
+    google: {
+      on: true,
+      link: 'https://forms.gle/wigPpZHCAuBwcwyt5'
+    },
+    custom: {
+      on: false,
+      link: ''
+    }
+  },
 
   // Categories
   categories: {

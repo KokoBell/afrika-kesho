@@ -16,15 +16,16 @@
       <p>{{ header }}</p>
     </div>
     <div class="message-body">
-      <news-letter-form />
+      <survey-form />
     </div>
   </article>
 </template>
 <script>
 import NewsLetterForm from '~/components/NewsLetterForm'
+import SurveyForm from '~/components/SurveyForm'
 export default {
   name: 'NewsLetterSlideOut',
-  components: { NewsLetterForm },
+  components: { NewsLetterForm, SurveyForm },
   data() {
     return {
       active: true
