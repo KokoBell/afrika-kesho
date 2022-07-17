@@ -7,8 +7,8 @@
     "
   >
     <div class="message-header">
+      <!-- :icon="active ? 'times' : 'envelope'" -->
       <font-awesome-icon
-        //:icon="active ? 'times' : 'envelope'"
         :icon="active ? 'times' : 'question'"
         :aria-label="active ? 'close' : 'open'"
         class="close"
