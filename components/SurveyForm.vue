@@ -7,7 +7,7 @@
           </span>
         </p>
         <div class="control">
-          <a href="$siteConfig.survey.link" _target="blank">
+          <a href="javascript:this.$siteConfig.survey.link" target="_blank" rel="noopener noreferrer">
             <button type="button" class="button is-primary">
               {{ $siteConfig.survey.btnText || 'Plant money Seeds' }}
             </button>
