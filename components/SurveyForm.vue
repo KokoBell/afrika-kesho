@@ -1,10 +1,5 @@
 <template>
   <div>
-    <form
-      target="_blank"
-      method="post"
-      :action="formAction"
-    >
       <div class="field has-addons is-fullwidth">
         <p class="control has-icons-left">
           <span class="icon is-small is-left">
@@ -12,12 +7,11 @@
           </span>
         </p>
         <div class="control">
-          <button type="submit" class="button is-primary">
+          <button type="button" class="button is-primary" @click="formAction">
             {{ $siteConfig.survey.btnText || 'Plant money Seeds' }}
           </button>
         </div>
       </div>
-    </form>
   </div>
 </template>
 

@@ -77,6 +77,7 @@ export default {
   },
   //Survey
   survey: {
+    heading: 'Help us plant financial seeds',
     btnText: 'Take the Survey',
     google: {
       on: true,

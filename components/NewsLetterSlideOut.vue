@@ -34,7 +34,8 @@ export default {
   computed: {
     header() {
       return (
-        this.$siteConfig.newsletter.heading || 'Subscribe to Our Newsletter'
+        //this.$siteConfig.newsletter.heading || 'Subscribe to Our Newsletter'
+        this.$siteConfig.survey.heading
       )
     }
   },
