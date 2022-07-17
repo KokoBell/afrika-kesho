@@ -30,7 +30,7 @@ export default {
   },
   computed: {
     formAction() {
-      if (this.$siteConfig.newsletter.survey.on) {
+      if (this.$siteConfig.survey.on) {
         return this.$siteConfig.survey.google.link
       }
       return this.$siteConfig.survey.custom.link
