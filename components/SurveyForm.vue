@@ -7,30 +7,15 @@
           </span>
         </p>
         <div class="control">
-          <button type="button" class="button is-primary" @click="formAction">
-            {{ $siteConfig.survey.btnText || 'Plant money Seeds' }}
-          </button>
+          <a href="$siteConfig.survey.link" _target="blank">
+            <button type="button" class="button is-primary">
+              {{ $siteConfig.survey.btnText || 'Plant money Seeds' }}
+            </button>
+          </a>
         </div>
       </div>
   </div>
 </template>
 
 <script>
-export default {
-  data() {
-    return {
-      email: ''
-    }
-  },
-  computed: {
-    formAction() {
-      if (this.$siteConfig.survey.on) {
-        window.location.href = this.$siteConfig.survey.google.link
-        return this.$siteConfig.survey.google.link
-      }
-      window.location.href = this.$siteConfig.survey.custom.link
-      return this.$siteConfig.survey.custom.link
-    }
-  }
-}
 </script>
