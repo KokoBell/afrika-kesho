@@ -16,6 +16,7 @@
       <p>{{ header }}</p>
     </div>
     <div class="message-body">
+      <!-- <news-letter-form /> -->
       <survey-form />
     </div>
   </article>
