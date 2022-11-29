@@ -3,7 +3,7 @@ title: Using investment clubs to build generational wealth
 subtitle: Team work makes the dream work
 category:
   - Investing
-author: Afrika Kesho
+author: Tumelo Koko
 date: 2022-07-31T11:42:53.795Z
 featureImage: /uploads/investment-clubs.jpg
 ---
