@@ -3,7 +3,7 @@ title: You opened an investment account, now what?
 subtitle: Steps to define a clear and effective investing strategy
 category:
   - Investing
-author: Afrika Kesho
+author: Tumelo Koko
 date: 2022-06-07T12:58:09.536Z
 featureImage: /uploads/investing-lessons-from-gardening.jpg
 ---
