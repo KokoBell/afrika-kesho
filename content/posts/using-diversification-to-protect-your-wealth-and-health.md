@@ -1,8 +1,9 @@
 ---
-title: Using diversification to protect your wealth (and health)
+title: Protecting your wealth (and health) with diverisification
+subtitle: Diversifying is about more than investments
 category:
   - Investing
-author: Afrika Kesho
+author: Tumelo Koko
 date: 2022-08-28T20:02:10.375Z
 featureImage: /uploads/diversification.jpg
 ---
